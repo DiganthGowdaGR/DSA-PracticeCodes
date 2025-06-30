@@ -1,4 +1,4 @@
-class median {
+class missingNum {
     public int missingNumber(int[] nums) {
         int xor = 0, n = nums.length;
         
