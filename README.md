@@ -1,6 +1,7 @@
 <div align="center">
-  
-# 🚀 Java DSA Solutions  
+
+# 😄 Hi, I am Sharath
+# 🚀 Welcome To My Java DSA Solutions Repo
 **Easy • Medium • Hard — Solved in Java**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/DiganthGowdaGR/DSA-PracticeCodes)
@@ -41,7 +42,7 @@ _(Update manually until automation is set up)_
 
 ## 🛠 Tech Stack
 - **Language:** Java ☕  
-- **IDE:** VS Code / IntelliJ IDEA  
+- **IDE:** VS Code / IntelliJ IDEA  / leetCode
 - **Version Control:** Git & GitHub  
 
 ---
@@ -65,13 +66,7 @@ _(Update manually until automation is set up)_
 - **Regular Updates**
 - **GitHub Shields** for a professional look
 - **Progress Table** to track growth
-
----
-
-## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=DiganthGowdaGR&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiganthGowdaGR&layout=compact&theme=tokyonight)
-
+  
 ---
 
 ## 📜 License
