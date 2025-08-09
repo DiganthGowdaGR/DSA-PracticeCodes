@@ -3,9 +3,9 @@
 # 🚀 Java DSA Solutions  
 **Easy • Medium • Hard — Solved in Java**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/DiganthGowdaGR/DSA-Java)
-![GitHub repo size](https://img.shields.io/github/repo-size/DiganthGowdaGR/DSA-Java)
-![Languages](https://img.shields.io/github/languages/top/DiganthGowdaGR/DSA-Java?color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/DiganthGowdaGR/DSA-PracticeCodes)
+![GitHub repo size](https://img.shields.io/github/repo-size/DiganthGowdaGR/DSA-PracticeCodes)
+![Languages](https://img.shields.io/github/languages/top/DiganthGowdaGR/DSA-PracticeCodes?color=orange)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 💡 A growing collection of **Data Structures & Algorithms** problems solved in Java.  
