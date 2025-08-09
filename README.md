@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 💡 A growing collection of **Data Structures & Algorithms** problems solved in Java.  
-Each solution is clean, optimized, and well-commented.
+Each solution is clean, optimized.
 
 </div>
 
