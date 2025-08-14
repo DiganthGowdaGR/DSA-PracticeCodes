@@ -31,10 +31,11 @@ Each file is **self-contained**, meaning you can run it directly without setting
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | XX     |
-| 🟡 Medium  | XX     |
-| 🔴 Hard    | XX     |
-| **Total**  | XX     |
+| 🟢 Easy    | 24     |
+| 🟡 Medium  | 22     |
+| 🔴 Hard    | 2      |
+| **Total**   | 48     |
+## updated on  : 14/08/2025
 
 _(Update manually until automation is set up)_
 
